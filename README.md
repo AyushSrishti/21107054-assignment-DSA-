@@ -1,1 +1,3 @@
-# 21107054-assignment-DSA-
+In-place is used anywhere you have scarcity of storage space, example in legacy computers, interplanetary probes, satellites and stuff. If we are looking for a real life analogy, then in the case of a small kitchen, you have boxes containing food items stacked one over another. If we want to access any box, you’ll have to pick the ones on top of it, hold it one hand, while you pick the chosen box, place the unwanted boxes back and then the chosen one on top of them.
+
+Out-place is used where you have a large amount of storage space, and you want the code to be simple to understand. Examples are complex algorithms. In case of a big enough kitchen, you can place the unwanted top boxes on the shelf, and then pick the chosen one.
